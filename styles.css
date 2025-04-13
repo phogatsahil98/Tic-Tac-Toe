@@ -119,7 +119,7 @@ h1{
     display: none;
 }
 
-// Will Scale down the ratio of layout when the screen size goes lower than 600px
+/* Will Scale down the ratio of layout when the screen size goes lower than 600px*/
 @media (max-width: 600px) {
     .box {
         inline-size: 75px;
